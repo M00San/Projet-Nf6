@@ -1,7 +1,0 @@
-2025-01-09 16:44:23,068 - ERROR - Erreur lors de la lecture des commentaires: 'commentaires'
-2025-01-09 16:44:23,659 - ERROR - Erreur lors de la lecture des commentaires: 'commentaires'
-2025-01-09 16:50:30,768 - ERROR - Erreur: ApplicationPrincipale.__init__() missing 2 required positional arguments: 'utilisateur_connecte' and 'gestion_utilisateurs'
-Traceback (most recent call last):
-  File "c:\Users\Soloz\Desktop\NF06\main.py", line 100, in main
-    app = ApplicationPrincipale(root)
-TypeError: ApplicationPrincipale.__init__() missing 2 required positional arguments: 'utilisateur_connecte' and 'gestion_utilisateurs'
