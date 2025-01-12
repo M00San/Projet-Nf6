@@ -1,0 +1,6 @@
+{
+    "theme": "dark",
+    "langue": "fr",
+    "max_recommandations": 5,
+    "delai_cache": 3600
+}

@@ -1,0 +1,11 @@
+id,titre,realisateur,annee,genre,note,acteurs,date_ajout
+1,Inception,Christopher Nolan,2010,Science-Fiction,5.5,"Leonardo DiCaprio, Ellen Page, Joseph Gordon-Levitt",2025-01-09T15:56:21+01:00
+2,The Dark Knight,Christopher Nolan,2008,Action,4.0,"Christian Bale, Heath Ledger, Aaron Eckhart",2025-01-09T15:56:21+01:00
+3,Pulp Fiction,Quentin Tarantino,1994,Crime,6.0,"John Travolta, Uma Thurman, Samuel L. Jackson",2025-01-09T15:56:21+01:00
+4,The Godfather,Francis Ford Coppola,1972,Crime,9.4,"Marlon Brando, Al Pacino, James Caan",2025-01-09T15:56:21+01:00
+5,Matrix,Lana et Lilly Wachowski,1999,Science-Fiction,9.3,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",2025-01-09T15:56:21+01:00
+6,Forrest Gump,Robert Zemeckis,1994,Drame,6.7,"Tom Hanks, Robin Wright, Gary Sinise",2025-01-09T15:56:21+01:00
+7,Avatar,James Cameron,2009,Science-Fiction,8.9,"Sam Worthington, Zoe Saldana, Sigourney Weaver",2025-01-09T15:56:21+01:00
+8,Le Seigneur des Anneaux,Peter Jackson,2001,Fantasy,6.0,"Elijah Wood, Ian McKellen, Viggo Mortensen",2025-01-09T15:56:21+01:00
+9,Titanic,James Cameron,1997,Romance,6.7,"Leonardo DiCaprio, Kate Winslet, Billy Zane",2025-01-09T15:56:21+01:00
+10,Interstellar,Christopher Nolan,2014,Science-Fiction,9.1,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",2025-01-09T15:56:21+01:00

@@ -1,0 +1,125 @@
+{
+    "CinemaFan123": {
+        "email": "cinemafan123@email.com",
+        "password": "CinemaLover2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T12:55:00.447590"
+    },
+    "ClassicMovieLover": {
+        "email": "classicmovie@email.com",
+        "password": "ClassicFilms2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T12:56:00.081044"
+    },
+    "SciFiExpert": {
+        "email": "scifiexpert@email.com",
+        "password": "SciFiMovies2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T12:57:00.081044"
+    },
+    "FrenchCinema": {
+        "email": "frenchcinema@email.com",
+        "password": "FrenchFilms2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T12:58:00.081044"
+    },
+    "FantasyFan": {
+        "email": "fantasyfan@email.com",
+        "password": "FantasyMovies2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T12:59:00.081044"
+    },
+    "SpaceExplorer": {
+        "email": "spaceexplorer@email.com",
+        "password": "SpaceMovies2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T13:01:00.081044"
+    },
+    "MusicLover": {
+        "email": "musiclover@email.com",
+        "password": "MusicFilms2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T13:02:00.081044"
+    },
+    "DCFanatic": {
+        "email": "dcfanatic@email.com",
+        "password": "SuperHero2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T13:03:00.081044"
+    },
+    "WorldCinema": {
+        "email": "worldcinema@email.com",
+        "password": "WorldFilms2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T13:04:00.081044"
+    },
+    "MovieBuff42": {
+        "email": "moviebuff42@email.com",
+        "password": "MovieLover2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T13:06:00.081044"
+    },
+    "TechieViewer": {
+        "email": "techieviewer@email.com",
+        "password": "TechMovies2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T13:07:00.081044"
+    },
+    "AnimeFan": {
+        "email": "animefan@email.com",
+        "password": "AnimeFilms2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T13:08:00.081044"
+    },
+    "HistoryBuff": {
+        "email": "historybuff@email.com",
+        "password": "HistoryFilms2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T13:09:00.081044"
+    },
+    "MovieCritic": {
+        "email": "moviecritic@email.com",
+        "password": "FilmCritic2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T13:10:00.081044"
+    },
+    "FilmArtist": {
+        "email": "filmartist@email.com",
+        "password": "ArtFilms2025!",
+        "role": "admin",
+        "date_creation": "2024-12-16T13:11:00.081044"
+    },
+    "ParisianCinema": {
+        "email": "parisiancinema@email.com",
+        "password": "ParisFilms2025!",
+        "role": "admin",
+        "date_creation": "2024-12-16T13:13:00.081044"
+    },
+    "EpicFan": {
+        "email": "epicfan@email.com",
+        "password": "EpicMovies2025!",
+        "role": "user",
+        "date_creation": "2024-12-16T13:14:00.081044"
+    },
+    "root": {
+        "password": "toor",
+        "email": "root@cineflix.com",
+        "role": "admin",
+        "date_creation": "2025-01-03T23:18:00.841571",
+        "derniere_connexion": "2025-01-10T20:12:39.668760"
+    },
+    "sqd": {
+        "password": "Mossab123!",
+        "email": "mosqfqfqf@gmail.com",
+        "role": "user",
+        "date_creation": "2025-01-03T23:33:55.588418",
+        "derniere_connexion": null
+    },
+    "test": {
+        "password": "Test123!",
+        "email": "test1232@gmail.com",
+        "role": "user",
+        "date_creation": "2025-01-09T15:01:29.413998",
+        "derniere_connexion": "2025-01-09T17:14:56.896962"
+    }
+}
